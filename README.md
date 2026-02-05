@@ -2,6 +2,9 @@
 
 # 🚖 Ola Ride Data Analysis Dashboard | Power BI
 
+##  Dashboard
+<img width="1215" height="676" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4b9d5a0c-5f0e-46e6-b04c-824f3be2940b" />
+
 ## 📌 Project Overview
 This project presents an end-to-end data analytics solution built using **Excel** and **Power BI** to analyze Ola ride booking data.  
 The dashboard provides insights into ride demand, revenue, cancellations, peak hours, and customer behavior, helping stakeholders make data-driven decisions.
